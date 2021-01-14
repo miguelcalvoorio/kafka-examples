@@ -1,0 +1,25 @@
+com/example/model/OperationModel.java
+ com.example.model.OperationModel
+ com.example.model.OperationModel$OperationModelBuilder
+com/example/connector/KafkaProperties.java
+ com.example.connector.KafkaProperties
+com/example/core/OperationController.java
+ com.example.core.OperationController
+com/example/connector/KafkaJsonSerializer.java
+ com.example.connector.KafkaJsonSerializer
+com/example/connector/QueueConnector.java
+ com.example.connector.QueueConnector
+com/example/entity/OperationEntity.java
+ com.example.entity.OperationEntity
+ com.example.entity.OperationEntity$OperationEntityBuilder
+com/example/connector/KafkaSpringConnector.java
+ com.example.connector.KafkaSpringConnector
+ com.example.connector.KafkaSpringConnector$1
+com/example/core/CoreApplication.java
+ com.example.core.CoreApplication
+com/example/assembler/OperationModelAssembler.java
+ com.example.assembler.OperationModelAssembler
+com/example/connector/KafkaJsonDeserializer.java
+ com.example.connector.KafkaJsonDeserializer
+com/example/connector/KafkaConnector.java
+ com.example.connector.KafkaConnector

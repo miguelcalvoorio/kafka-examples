@@ -1,0 +1,2 @@
+com/example/core/CoreApplicationTests.java
+ com.example.core.CoreApplicationTests

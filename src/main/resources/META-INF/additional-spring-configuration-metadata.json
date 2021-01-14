@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.topics.operations",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.producer.bootstrap-servers",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.producer.key-serializer",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.producer.value-serializer",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.consumer.bootstrap-servers",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.consumer.key-deserializer",
+    "type": "java.lang.String",
+    "description": ""
+  },
+  {
+    "name": "app.kafka.consumer.value-deserializer",
+    "type": "java.lang.String",
+    "description": ""
+  }
+]}
